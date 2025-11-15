@@ -1,0 +1,98 @@
+Cartas 
+
+---Armagilha:
+-Armadura Sakuretsu
+Box 
+Chips
+
+-Ardor Meteórico
+Mini Box
+
+-Boa Limpeza 
+???
+
+-Jarra da Ganância:
+Deck Yuri
+Maximillium Pegasus
+Garota Fantasma
+
+========================================
+----- Magia -----
+
+A Árvore do Mundo:
+Deck Iniciante espectro
+Duelo Espectro
+
+Choro de Prata:
+Box 
+Chips
+
+Gota Proibida:
+Box
+
+-Passe Secreto:
+???
+
+=======================
+Monstro:
+
+Amaterasu:
+Sera subida_de_nivel
+
+Cavaleiro do Expresso:
+Duelo Anna Kaboom
+Evento Duel_Capsule
+
+D.D. Corvo:
+Box
+
+Dragão Armado LV10:
+Ranqueado
+Eventos
+
+Dragão Cibernético:
+Box_CyberDragonLaunch
+
+-Dragão do Trovão:
+???
+
+-Fênix Sagrada de Nephthys:
+MiniBox Dawn_Of_Destiny
+Trocando_Chips
+Box Return_Of_The_Fire_Kings_EX
+
+Golem do Mecanismo:
+Evento_GoRush
+
+Guardião do Portão:
+Mercador
+Deck Irmãos_Paradoxo
+
+-Invocador de Dragão Azul:
+???
+
+-Kaibaman:
+???
+
+O Dragão Alado:
+Box Phoenix_Blaze
+
+Ocultador de Efeitos:
+Box
+
+Rei das Bestas:
+MiniBox Secrets_Of_The_Ancientes
+Trocando_Chips
+
+Senhormek Astro:
+Mini_Box
+
+Triunfo Coringa Arcano:
+Box Imperial_Joker_EX
+
+-Vassalo do Coveiro:
+???
+
+Yubel - O Pesadelo:
+Duelo Yubel
+Ranqueado 

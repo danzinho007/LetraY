@@ -1,0 +1,5 @@
+Siglas dos arquivos:
+
+TF1 = Tag_Force_1
+TFS = Tag_Force_Special
+WC2011 = World_Championship_2011

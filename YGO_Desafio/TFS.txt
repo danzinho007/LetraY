@@ -1,0 +1,143 @@
+Explicando: 10 ate 20 sao 11 : 
+10,11,12,13,14
+15,16,17,18,19
+20
+E 10 ate 20 ( 10 ) + Numero 10 = 11 
+ 
+Yu_Gi_Oh_DM     01 ate   41 = 41                ( 41 )
+Yu_Gi_Oh_GX      42 ate   74 = 32 + 1 = 33 ( 74 )
+Yu_Gi_Oh_5Ds     75 ate 115 = 40 + 1 = 41 ( 115 )
+Yu_Gi_Oh_Zexal 116 ate 156 = 40 + 1 = 41 ( 156 )
+Yu_Gi_Oh_ArcV  157 ate 192 = 35 + 1  = 36 ( 192 )
+                                               
+Deck Inicial:
+
+2-FadaFortunaEn 0/0
+1-FadaFortunaHikari 0/0
+3-FadaFortunaHu 0/0
+4-FadaFortunaSwee 0/0
+1-IdoloDosMilOlhos 0/0
+3-Soitsu 0/0
+1-Unicular 0/0
+1-BracoDireitoExodia 200/300
+1-BracoEsquerdoExodia 200/300
+1-PernaDireitaExodia 200/300
+1-Nuviano 200/600
+
+Duelos : 
+Nome do Duelista = Carta que peguei
+Nome do Deck 
+
+3---Deck_Ishizu_Ishtar = 
+Companheiros_dos_Coveiros
+2---Deck_Mai_Valentine
+Harpia_Histerica
+4---Deck_Joey_Wheeler
+Prova_Nossa_Amizade
+1---Deck_Seto_Kaiba
+Estrada_Para_Batalha
+0---Deck_Yami Yugi
+Memorias_Do_Farao_Fim
+5---Deck_Yugi_Muto
+Meus_Guerreiros
+
+Arm-AProfeciaDaTransmigracao
+Arm-AtaqueDeIcaro = x2
+Arm-Metalmorfo
+Arm-SoproDaAsaDaFenix
+Arm-Trinca
+ArmCont-BastiaoAFortalezaMovel
+ArmCont-FestaHisterica
+ArmCont-MachadoDespedacado
+
+Mag-AMelodiaDoDespertar
+Mag-BodeExpiatorio
+Mag-BuracoNegro
+Mag-EgotistaElegante
+Mag-EspelhoDragao
+Mag-FabricaNegraDeProducao
+Mag-MonolitoDoCoveiro
+Mag-Polimerizacao
+Mag-ReviverMonstro (Deck2)
+Mag-TributoReal
+Mag-SarcofagoDourado
+Mag-TufaoEspacialMistico
+
+MagCam-Necro-Vale
+MagCam-PoderDeGaia
+MagCam-TerrenoDeCacaDasHarpias
+MagCam-ZonaDeCatapulta
+
+MagCon-AtacarALua
+MagCon-CoracaoDoDesfavorecido = x2
+MagCon-MaquinaPerigosa
+MagCon-MercadorDeCards
+
+12-Fus-DragaoDefinitivo 4500/3800
+8-Efe-VaolkyrionOGuerreiroIma 3500/3850
+9-Fus-DragaoCaveiraNegro 3200/2500
+8-DragaoBranco 3000/2500 = x3
+6-CaveiraInvocada 2500/1200
+7-DragaoNegroDeOlhos 2400/2000
+
+4-Efe-MagoNegroHabilidoso 1900/1700 (Deck1)
+4-Efe-RainhaHarpia 1900/1200
+Deck_Harpia
+4-BetaOGuerreiroIma 1700/1600
+4-Efe-EmboscadorDoCoveiro 1700/0
+4-Efe-ValquiriaDoMago 1600/1800
+4-Efe-ComandenteDoCoveiro 1600/1500
+4-Efe-Breaker 1600/1000 = x2
+4-GamaOGuerreiroIma 1500/1800
+4-Efe-DescendenteDoCoveiro 1500/1200
+4-EspadaDoJacare 1500/1200
+
+4-AlfaOGuerreiroIma 1400/1700
+4-Efe-AnjoResplandecente 1400/800 = x2
+3-SoldadoDePedraGigantr 1300/2000
+4-Efe-LadyHarpia1 1300/1400
+4-Efe-DancarinaHarpia 1200/1000
+3-DragaoFilhote 1200/700 = x2
+4-Efe-BebeDragaoDeEstimacao 1200/600
+4-Efe-GuardaDoCoveiro 1000/1900
+3-Efe-GolemDeBlocos 1000/1500
+2-Efe-FilhoteDoDragaoNegro 800/500
+3-Efe-ReiDoPantano 500/1100
+2-Efe-MagoDoTempo 500/400
+3-Efe-Kaibaman 200/700
+4-Efe-GrandeEscudoGarna 100/2600
+1-Efe-DonzelaComAzul 0/0 = x2 
+
+====================
+
+Arm-
+Mag-ReinforcementOfTheArmy
+MagEqu-
+ 
+4-XYZ 2400/1200
+4-XYZ 2300/1500
+4-XYZ 2100/1800
+4-XYZ 2000/2000
+5-Efe Asanegra 2000/900 (Deck04)
+4-Efe Swallowtail Butterspy 1800/1200 (Deck01)
+4-Efe HieraticDragonOfNuit 1700/900 (Deck02)
+4-Efe-1700/800 
+4-Efe 1600/1200
+4-Efe 1600/1000
+4-Efe 1600/900
+4-Efe 1200/1600
+4-Efe 1000/1000
+4-Efe 500/2000 (Deck03)
+3-Efe 400/400
+4-Efe HC 0/2000
+4-Efe  0/1700
+
+Deck: 
+
+1-MokeyMokey 300/100
+1-SkullServant 300/200
+1-Kattapillar 250/300
+
+1-Unicycular 100/100
+3-Soitsu 0/0
+1-Thousand-EyesIdol 0/0

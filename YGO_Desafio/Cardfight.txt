@@ -1,0 +1,42 @@
+===============================
+Cardfight
+
+Aula 01: Decks
+Aula 02: Evolucao de cartas
+Aula 03: Dano
+Aula 04: Grau
+Aula 05: Simbolos
+Aula 06: Shield
+Aula 07: Ataque
+Aula 08: Drive Check
+Aula 09: Twin Drive
+
+Aula 01 Cardfight Vanguard :
+Os decks sao de clas ( voce pode usar outras cartas nele, porem nao vai combar )
+Aula 02 No jogo Cardfight Vanguard voce pode evoluir suas cartas a cada turno ( comeca no 0, e vai ate 3 )
+Aula 03 No jogo Cardfight Vanguard cada vez que voce leva um dano, tu puxa uma carta e coloca ela na fase de Dano virada pra cima
+Quando tiver 6 cartas, perde o jogo
+Aula 04 Grau
+No Cardfight Vanguard as cartas tem grau pra mostrar o quando ela e poderosa
+Grau 0 Alem de ser inicial costuma ajudar outras sendo triggers
+Grau 1 Sao aquelas que sao beneficiadas pelo grau 0 no ataque ou ajudam o grau 2
+Grau 2 Sao aquelas que sao bufadas pelo grau 0 / 1, podem interceptar um ataque e fazem 1 de drive check
+Grau 3 Sao aquelas que sao bufadas pelo grau 0 / 1 / 2 e tem twin drive, nao podem interceptar
+Aula 05 Simbolos:
+V = E o circulo central no campo de Vanguard
+R = Sao os circulo restantes no campo
+Aula 06 Shield 5000:
+Serve pra ajudar na defesa
+Exemplo : Ataque de 11k de um Grau 1 no Circulo Central ou um que ta na Rear Guard vindo e seu montro tem 10k de ataque
+Voce pode jogar essa carta de grau 2 pra interceptar o ataque e ajudar
+Logo seu monstro vai subir pra 15k superando o ataque adversario
+Aula 07: Ataque 10k / 10.000 / 10000
+E usada caso batalhe contra criatura 
+Se o ataque for igual ou maior, o ataque passa 
+Caso contrario ele e negado 
+Aula 08: Drive check 
+A maioria das cartas de grau 2 a pessoa pode fazer um Drive Check, ou seja, checagem de potencializado
+Exemplo : Ataquei com Randolf uma carta que tem 8000 de ataque, caso o oponente nao defenda ou intercepta, eu faco um Drive Check 
+Puxo uma carta do baralho e verifico se ela e um trigger 
+Aula 09: Twin Drive
+Caso o ataque venha de uma carta grau Lv 3, ela pode realizar um Twin Drive, que e puxar 2 cartas pra verificar se alguma e trigger

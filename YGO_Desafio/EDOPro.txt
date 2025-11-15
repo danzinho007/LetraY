@@ -1,0 +1,27 @@
+EDOPro
+
+Deck Inicial:
+1-IdoloDosMilOlhos 0/0 = removido
+4-MonstroBoneca 0/0 = removido
+3-Soitsu 0/0 = removido
+
+8-DragaoBrancoDeOlhosAzuis 3000/2500 ()Blue-Eyes
+4-Efe-TitereiroAltergeist 1600/1700 () Altergeist
+1-Efe-APedraBranca 600/500 ()Blue-Eyes
+2-Efe-BMaxx 500/200 (Primeira) Altergeist
+
+Cardfight
+Aula 01: Deck e seus clas
+Aula 02: Evoluindo cartas
+Aula 03: Pontos de Vida
+Aula 04: Grau
+Aula 05: R e V
+Aula 06: Shield e Interceptar
+
+Buddyfight
+Aula 01: Tamanho
+Aula 02: Critical
+Aula 03: Defesa
+Aula 04: Power
+Aula 05: World
+Aula 06: Card Type
